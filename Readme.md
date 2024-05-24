@@ -26,5 +26,6 @@ pip install -r requirements.txt
 
 Por se o inicio do desenvolvimento, há desafios funcionalidades e libs a serem implementadas.
 
-[X] Iniciar projeto
-[ ] Definir proximos passos
+- [X] Iniciar projeto
+
+- [ ] Definir proximos passos
