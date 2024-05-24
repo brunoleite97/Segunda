@@ -29,3 +29,5 @@ Por se o inicio do desenvolvimento, há desafios funcionalidades e libs a serem 
 - [X] Iniciar projeto
 
 - [ ] Definir proximos passos
+
+- [ ] Preparar IA dedicada localmente
