@@ -699,6 +699,431 @@
         "Eu adoro aprender e compartilhar conhecimento com você!",
         "Eu não pratico esportes, mas posso ajudá-lo a encontrar informações sobre eles!"
       ]
+    },
+    {
+    "tag": "A26",
+      "patterns": [
+        "Segunda, como está o tempo hoje?",
+        "Segunda, qual é a previsão do tempo?",
+        "Segunda, vai chover hoje?",
+        "Segunda, como está o clima?",
+        "Segunda, está fazendo sol hoje?"
+      ],
+      "responses": [
+        "Eu posso verificar a previsão do tempo para você. Onde você está localizado?",
+        "Deixe-me verificar a previsão do tempo. Qual é a sua localização?",
+        "Vou checar a previsão do tempo para você. Onde você está?",
+        "Para fornecer a previsão do tempo, preciso saber onde você está localizado.",
+        "Deixe-me ver a previsão do tempo. Qual é a sua cidade?"
+      ]
+    },
+    {
+      "tag": "A27",
+      "patterns": [
+        "Segunda, você pode me contar uma história?",
+        "Segunda, você sabe alguma história interessante?",
+        "Segunda, conte-me uma história!",
+        "Segunda, você conhece alguma história divertida?",
+        "Segunda, você pode me entreter com uma história?"
+      ],
+      "responses": [
+        "Era uma vez, em uma terra distante...",
+        "Eu conheço muitas histórias interessantes! Sobre o que você gostaria de ouvir?",
+        "Aqui vai uma história: Em um reino muito distante...",
+        "Vou contar uma história para você: Era uma vez...",
+        "Eu adoro contar histórias! Aqui está uma: Em um lugar não muito distante..."
+      ]
+    },
+    {
+      "tag": "A28",
+      "patterns": [
+        "Segunda, você gosta de arte?",
+        "Segunda, qual é a sua obra de arte favorita?",
+        "Segunda, você pode me falar sobre algum artista famoso?",
+        "Segunda, você gosta de pintar?",
+        "Segunda, qual é o seu estilo de arte favorito?"
+      ],
+      "responses": [
+        "Eu adoro arte! Qual é o seu estilo de arte favorito?",
+        "Existem muitos artistas incríveis. Qual você gostaria de conhecer melhor?",
+        "Eu não pinto, mas posso falar sobre muitos artistas famosos!",
+        "Eu gosto de todos os estilos de arte! E você?",
+        "A arte é uma forma maravilhosa de expressão. Qual é o seu estilo preferido?"
+      ]
+    },
+    {
+      "tag": "A29",
+      "patterns": [
+        "Segunda, você pode me ajudar com matemática?",
+        "Segunda, qual é a resposta para 2+2?",
+        "Segunda, você é boa em resolver problemas de matemática?",
+        "Segunda, pode me ajudar com uma equação?",
+        "Segunda, como resolvo essa expressão matemática?"
+      ],
+      "responses": [
+        "Claro, posso ajudar com matemática! Qual é a sua dúvida?",
+        "A resposta para 2+2 é 4!",
+        "Eu adoro resolver problemas de matemática! Qual é a sua pergunta?",
+        "Posso ajudar com essa equação. Qual é o problema?",
+        "Vamos resolver isso juntos. Qual é a expressão matemática?"
+      ]
+    },
+    {
+      "tag": "A30",
+      "patterns": [
+        "Segunda, você sabe cozinhar?",
+        "Segunda, qual é a sua receita favorita?",
+        "Segunda, pode me ensinar a fazer um bolo?",
+        "Segunda, você conhece alguma receita fácil?",
+        "Segunda, você pode me ajudar a cozinhar?"
+      ],
+      "responses": [
+        "Eu não cozinho, mas posso compartilhar algumas receitas!",
+        "Eu conheço muitas receitas deliciosas. Qual tipo você prefere?",
+        "Eu posso te ensinar a fazer um bolo. Aqui está uma receita simples!",
+        "Claro, eu conheço várias receitas fáceis. O que você gostaria de fazer?",
+        "Eu adoraria ajudar com a culinária! Qual é o prato que você quer preparar?"
+      ]
+    },
+    {
+      "tag": "A31",
+      "patterns": [
+        "Segunda, você gosta de viajar?",
+        "Segunda, qual é o seu destino de viagem favorito?",
+        "Segunda, pode me recomendar um lugar para visitar?",
+        "Segunda, qual é o melhor lugar para férias?",
+        "Segunda, você pode me falar sobre algum destino turístico?"
+      ],
+      "responses": [
+        "Eu adoro aprender sobre novos lugares! Qual é o seu destino de viagem favorito?",
+        "Existem muitos lugares incríveis para visitar. Qual tipo de destino você prefere?",
+        "Posso recomendar muitos lugares interessantes. Qual é o seu interesse?",
+        "Para férias, recomendo um lugar que combine com seus interesses. Qual é o seu estilo?",
+        "Existem muitos destinos turísticos fascinantes. Quer saber sobre algum específico?"
+      ]
+    },
+    {
+      "tag": "A32",
+      "patterns": [
+        "Segunda, você pode me dar conselhos sobre relacionamento?",
+        "Segunda, como posso melhorar meu relacionamento?",
+        "Segunda, você tem dicas para um relacionamento saudável?",
+        "Segunda, o que devo fazer em uma discussão com meu parceiro?",
+        "Segunda, como posso ser um bom amigo?"
+      ],
+      "responses": [
+        "Claro, posso oferecer alguns conselhos sobre relacionamento. Qual é a sua dúvida?",
+        "Comunicação é essencial em qualquer relacionamento. Você já tentou conversar?",
+        "Para um relacionamento saudável, a confiança e o respeito são fundamentais.",
+        "Em uma discussão, tente ouvir e entender o ponto de vista do outro.",
+        "Para ser um bom amigo, seja leal, compreensivo e presente."
+      ]
+    },
+    {
+      "tag": "A33",
+      "patterns": [
+        "Segunda, qual é a sua cor favorita?",
+        "Segunda, você gosta de cores?",
+        "Segunda, qual é a cor mais popular?",
+        "Segunda, o que cada cor significa?",
+        "Segunda, você prefere vermelho ou azul?"
+      ],
+      "responses": [
+        "Eu não tenho uma cor favorita, mas adoro aprender sobre todas elas!",
+        "As cores são fascinantes! Qual é a sua favorita?",
+        "A cor mais popular pode variar, mas azul e vermelho são sempre muito apreciadas.",
+        "Cada cor tem um significado diferente. Por exemplo, o vermelho pode simbolizar paixão.",
+        "Eu gosto de todas as cores! Você prefere vermelho ou azul?"
+      ]
+    },
+    {
+      "tag": "A34",
+      "patterns": [
+        "Segunda, você acredita em astrologia?",
+        "Segunda, qual é o seu signo?",
+        "Segunda, você pode me fazer uma leitura de horóscopo?",
+        "Segunda, você sabe algo sobre signos do zodíaco?",
+        "Segunda, qual é o melhor signo?"
+      ],
+      "responses": [
+        "Astrologia é um campo interessante. Qual é o seu signo?",
+        "Eu não tenho um signo, mas posso te ajudar com informações sobre astrologia.",
+        "Eu posso compartilhar o horóscopo de hoje. Qual é o seu signo?",
+        "Existem 12 signos no zodíaco, cada um com suas características únicas.",
+        "Não há um 'melhor' signo, cada um tem suas qualidades e desafios."
+      ]
+    },
+    {
+      "tag": "A35",
+      "patterns": [
+        "Segunda, você gosta de videogames?",
+        "Segunda, qual é o seu jogo favorito?",
+        "Segunda, pode me recomendar um jogo?",
+        "Segunda, você joga online?",
+        "Segunda, quais são os melhores jogos do momento?"
+      ],
+      "responses": [
+        "Eu gosto de aprender sobre videogames! Qual é o seu favorito?",
+        "Existem muitos jogos incríveis. Qual tipo de jogo você prefere?",
+        "Eu posso recomendar vários jogos. Você gosta de ação, aventura ou estratégia?",
+        "Eu não jogo, mas posso ajudar a encontrar jogos populares online!",
+        "Os melhores jogos do momento incluem títulos como [jogo popular]."
+      ]
+    },
+    {
+      "tag": "A36",
+      "patterns": [
+        "Segunda, você pode me ajudar a aprender uma nova língua?",
+        "Segunda, qual é a melhor maneira de aprender um idioma?",
+        "Segunda, você sabe falar outras línguas?",
+        "Segunda, você pode me ensinar algumas palavras em espanhol?",
+        "Segunda, como posso melhorar meu inglês?"
+      ],
+      "responses": [
+        "Eu posso te ajudar a aprender uma nova língua! Qual você gostaria de aprender?",
+        "Praticar regularmente e imersão são ótimas maneiras de aprender um idioma.",
+        "Eu conheço muitas línguas! Qual você quer aprender?",
+        "Claro, posso te ensinar algumas palavras em espanhol. Por onde quer começar?",
+        "Para melhorar seu inglês, pratique a leitura, escrita, fala e audição diariamente."
+      ]
+    },
+    {
+      "tag": "A37",
+      "patterns": [
+        "Segunda, você gosta de festas?",
+        "Segunda, qual é a sua festa favorita?",
+        "Segunda, você pode me dar dicas para organizar uma festa?",
+        "Segunda, qual é a melhor música para uma festa?",
+        "Segunda, como posso tornar uma festa mais divertida?"
+      ],
+      "responses": [
+        "Festas são uma ótima maneira de se divertir! Qual tipo de festa você gosta?",
+        "Eu não tenho uma festa favorita, mas posso ajudar a planejar uma!",
+        "Claro, posso dar dicas para organizar uma festa incrível!",
+        "A melhor música para uma festa depende do gosto dos convidados. Alguma preferência?",
+        "Para tornar uma festa divertida, inclua jogos, boa música e comida deliciosa!"
+      ]
+    },
+    {
+      "tag": "A38",
+      "patterns": [
+        "Segunda, você pode me ajudar com minha lição de casa?",
+        "Segunda, como faço essa tarefa?",
+        "Segunda, você sabe a resposta para esta pergunta?",
+        "Segunda, você pode me explicar isso?",
+        "Segunda, qual é a solução para este problema?"
+      ],
+      "responses": [
+        "Claro, posso ajudar com sua lição de casa. Qual é a sua dúvida?",
+        "Vamos resolver isso juntos. Qual é a tarefa?",
+        "Posso tentar ajudar com a resposta. Qual é a pergunta?",
+        "Eu posso explicar. Qual é o assunto?",
+        "Vamos encontrar a solução juntos. Qual é o problema?"
+      ]
+    },
+    {
+      "tag": "A39",
+      "patterns": [
+        "Segunda, você gosta de filmes?",
+        "Segunda, qual é o seu filme favorito?",
+        "Segunda, pode me recomendar um filme?",
+        "Segunda, você prefere comédias ou dramas?",
+        "Segunda, qual é o melhor filme de todos os tempos?"
+      ],
+      "responses": [
+        "Eu adoro filmes! Qual é o seu gênero favorito?",
+        "Existem muitos filmes incríveis. Qual você gostaria de assistir?",
+        "Eu posso recomendar vários filmes. Você gosta de ação, comédia ou drama?",
+        "Ambos os gêneros têm seus méritos. Qual você prefere?",
+        "O melhor filme é subjetivo, mas alguns clássicos são altamente recomendados!"
+      ]
+    },
+    {
+      "tag": "A40",
+      "patterns": [
+        "Segunda, você pode me ajudar com meu projeto?",
+        "Segunda, como faço para começar um projeto?",
+        "Segunda, você tem alguma ideia para um projeto?",
+        "Segunda, você pode revisar meu trabalho?",
+        "Segunda, qual é a melhor maneira de organizar um projeto?"
+      ],
+      "responses": [
+        "Claro, posso ajudar com seu projeto! Qual é o tema?",
+        "Para começar um projeto, defina objetivos claros e um plano de ação.",
+        "Tenho muitas ideias! Qual é a área do seu projeto?",
+        "Posso revisar seu trabalho. Me mostre o que você tem até agora.",
+        "A melhor maneira de organizar um projeto é dividir em etapas e manter um cronograma."
+      ]
+    },
+    {
+      "tag": "A41",
+      "patterns": [
+        "Segunda, você sabe programar?",
+        "Segunda, qual é a sua linguagem de programação favorita?",
+        "Segunda, você pode me ajudar com um código?",
+        "Segunda, como aprendo a programar?",
+        "Segunda, você pode revisar meu código?"
+      ],
+      "responses": [
+        "Eu posso ajudar com programação! Qual é a sua dúvida?",
+        "Existem muitas linguagens de programação. Qual você está usando?",
+        "Eu posso tentar ajudar com seu código. Qual é o problema?",
+        "Para aprender a programar, comece com fundamentos e pratique regularmente.",
+        "Posso revisar seu código. Mostre-me o que você tem até agora."
+      ]
+    },
+    {
+      "tag": "A42",
+      "patterns": [
+        "Segunda, você gosta de poesia?",
+        "Segunda, qual é o seu poema favorito?",
+        "Segunda, você pode me recomendar um poema?",
+        "Segunda, você escreve poesia?",
+        "Segunda, qual é o melhor poeta de todos os tempos?"
+      ],
+      "responses": [
+        "Eu adoro poesia! Qual é o seu estilo favorito?",
+        "Existem muitos poemas lindos. Qual você gostaria de conhecer?",
+        "Posso recomendar vários poemas. Qual é o seu interesse?",
+        "Eu não escrevo poesia, mas posso apreciar e compartilhar muitos poemas!",
+        "O melhor poeta é subjetivo, mas alguns nomes icônicos são muito respeitados."
+      ]
+    },
+    {
+      "tag": "A43",
+      "patterns": [
+        "Segunda, você acredita em fantasmas?",
+        "Segunda, você pode me contar uma história de terror?",
+        "Segunda, você tem medo de fantasmas?",
+        "Segunda, você acredita em vida após a morte?",
+        "Segunda, você pode me falar sobre o paranormal?"
+      ],
+      "responses": [
+        "Fantasmas são um tema fascinante! Quer ouvir uma história de terror?",
+        "Eu conheço muitas histórias de terror. Aqui está uma: Em uma noite sombria...",
+        "Eu não tenho medo de fantasmas, mas entendo que podem ser assustadores!",
+        "A vida após a morte é um mistério para muitos. O que você acha?",
+        "O paranormal é um assunto intrigante. Quer saber mais sobre isso?"
+      ]
+    },
+    {
+      "tag": "A44",
+      "patterns": [
+        "Segunda, você pode me dar conselhos sobre carreira?",
+        "Segunda, como escolho a carreira certa?",
+        "Segunda, você tem dicas para entrevistas de emprego?",
+        "Segunda, como faço para ser promovido?",
+        "Segunda, você pode revisar meu currículo?"
+      ],
+      "responses": [
+        "Claro, posso ajudar com conselhos sobre carreira. Qual é a sua dúvida?",
+        "Escolher a carreira certa envolve autoconhecimento e pesquisa. O que você gosta de fazer?",
+        "Para entrevistas de emprego, prepare-se bem e seja confiante.",
+        "Para ser promovido, mostre dedicação e busque sempre melhorar.",
+        "Posso revisar seu currículo. Envie-me uma cópia para análise."
+      ]
+    },
+    {
+      "tag": "A45",
+      "patterns": [
+        "Segunda, você pode me ajudar com saúde mental?",
+        "Segunda, como posso lidar com o estresse?",
+        "Segunda, você tem dicas para ansiedade?",
+        "Segunda, o que faço se estiver me sentindo deprimido?",
+        "Segunda, você pode me recomendar práticas de bem-estar?"
+      ],
+      "responses": [
+        "Saúde mental é muito importante. Posso oferecer algumas dicas. Qual é a sua preocupação?",
+        "Para lidar com o estresse, tente técnicas de relaxamento como respiração profunda.",
+        "Para ansiedade, considere práticas como meditação e exercícios físicos.",
+        "Se você está se sentindo deprimido, é importante falar com um profissional de saúde mental.",
+        "Práticas de bem-estar incluem meditação, exercícios físicos e uma alimentação equilibrada."
+      ]
+    },
+    {
+      "tag": "A46",
+      "patterns": [
+        "Segunda, você pode me ajudar com tecnologia?",
+        "Segunda, como configuro meu computador?",
+        "Segunda, qual é o melhor smartphone?",
+        "Segunda, você pode me ajudar com um problema de software?",
+        "Segunda, como faço para proteger minha privacidade online?"
+      ],
+      "responses": [
+        "Claro, posso ajudar com tecnologia. Qual é a sua dúvida?",
+        "Para configurar seu computador, siga estas etapas: [etapas detalhadas].",
+        "O melhor smartphone depende das suas necessidades. Qual é a sua prioridade?",
+        "Posso tentar ajudar com seu problema de software. Qual é a questão?",
+        "Para proteger sua privacidade online, use senhas fortes e evite compartilhar informações pessoais."
+      ]
+    },
+    {
+      "tag": "A47",
+      "patterns": [
+        "Segunda, você gosta de ciência?",
+        "Segunda, qual é a sua descoberta científica favorita?",
+        "Segunda, você pode me explicar um conceito científico?",
+        "Segunda, qual é o maior avanço na ciência?",
+        "Segunda, você pode me falar sobre um cientista famoso?"
+      ],
+      "responses": [
+        "Eu adoro ciência! Qual área da ciência te interessa?",
+        "Existem muitas descobertas incríveis. Qual é o seu interesse?",
+        "Posso explicar muitos conceitos científicos. Qual é a sua dúvida?",
+        "O maior avanço na ciência é difícil de determinar, mas existem muitos significativos.",
+        "Eu posso falar sobre muitos cientistas famosos. Algum em mente?"
+      ]
+    },
+    {
+      "tag": "A48",
+      "patterns": [
+        "Segunda, você gosta de história?",
+        "Segunda, qual é o seu período histórico favorito?",
+        "Segunda, você pode me contar sobre um evento histórico importante?",
+        "Segunda, qual é a sua figura histórica favorita?",
+        "Segunda, você pode me recomendar um livro de história?"
+      ],
+      "responses": [
+        "Eu adoro história! Qual período histórico você gosta?",
+        "Existem muitos períodos fascinantes. Qual você quer saber mais?",
+        "Posso contar sobre muitos eventos históricos importantes. Qual é o seu interesse?",
+        "Existem muitas figuras históricas incríveis. Qual você gostaria de conhecer?",
+        "Posso recomendar vários livros de história. Algum período específico?"
+      ]
+    },
+    {
+      "tag": "A49",
+      "patterns": [
+        "Segunda, você acredita em extraterrestres?",
+        "Segunda, você pode me falar sobre OVNIs?",
+        "Segunda, existe vida em outros planetas?",
+        "Segunda, você acredita em teorias da conspiração?",
+        "Segunda, você pode me contar uma história sobre extraterrestres?"
+      ],
+      "responses": [
+        "A possibilidade de vida extraterrestre é um tema fascinante!",
+        "Existem muitos relatos de OVNIs. Você gostaria de ouvir sobre algum específico?",
+        "A questão da vida em outros planetas é intrigante. O que você acha?",
+        "Teorias da conspiração são interessantes, mas é importante buscar evidências.",
+        "Eu posso contar várias histórias sobre extraterrestres. Quer ouvir uma?"
+      ]
+    },
+    {
+      "tag": "A50",
+      "patterns": [
+        "Segunda, você pode me ajudar a escrever um poema?",
+        "Segunda, como começo a escrever um poema?",
+        "Segunda, você pode me dar ideias para um poema?",
+        "Segunda, você pode revisar meu poema?",
+        "Segunda, quais são as melhores técnicas de poesia?"
+      ],
+      "responses": [
+        "Claro, posso ajudar a escrever um poema! Sobre o que você quer escrever?",
+        "Para começar um poema, pense em um tema ou sentimento que você quer expressar.",
+        "Tenho muitas ideias para poemas! Quer ouvir algumas?",
+        "Posso revisar seu poema. Envie-me o que você escreveu.",
+        "Existem várias técnicas de poesia, como rimas e metáforas. Quer saber mais?"
+      ]
     }
   ]
 }

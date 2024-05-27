@@ -4,9 +4,10 @@ from bs4 import BeautifulSoup
 classes=["zCubwf","hgKElc","LTKOO sY7ric","Z0LcW","gsrt vk_bk FzvWSb YwPhnf","pclqee",
          "IZ6rdc","O5uR6d LTKOO","vlzY6d","webanswers-webanswers_table__webanswers-table",
          "dDoNo ikb48b gsrt","sXLaOe","LWkfke","Ab33Nc","qv3Wpe","SPZz6b"]
+
 useragent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
 
-def __about__(query,PRINT=False):
+def Online_Scraper(query,PRINT=False):
     query=query.replace(" + "," plus ")
     query=query.replace(" - "," minus ")
     URL = "https://www.google.com.br/search?q=" + query
@@ -24,4 +25,3 @@ def __about__(query,PRINT=False):
         except Exception:
             pass
     return "no idea about that"
-print(__about__("powershell",True))
