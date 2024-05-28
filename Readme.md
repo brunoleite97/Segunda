@@ -22,6 +22,36 @@ Instalar as dependencias presentes dentro do `requirements.txt`:
 pip install -r requirements.txt
 ```
 
+## Preparando o modelo de IA basica para o projeto
+
+Para preparar o modelo de IA é necessario seguir os seguintes passos:
+
+### 1 - Acessar a pasta `AI` e calibrar seu arquivo `train.py`
+Defina as variaveis `batch_size` e `hidden_size`, de acordo com suas preferencias
+```
+num_epochs = 1000
+batch_size = 8
+learning_rate = 0.0001
+input_size = len(X_train[0])
+hidden_size = 8
+output_size = len(tags)
+print(input_size, output_size)
+```
+
+### 2 - Executar o arquivo `train.py`
+
+Antes de iniciar o treino, precisa prepara o nltk com os seguintes comandos
+```
+Python
+```
+```
+>> import nltk
+>> nltk.download('punkt')
+```
+```
+python train.py
+```
+
 ## Steps do projeto
 
 Por se o inicio do desenvolvimento, há desafios funcionalidades e libs a serem implementadas.
@@ -30,4 +60,4 @@ Por se o inicio do desenvolvimento, há desafios funcionalidades e libs a serem 
 
 - [ ] Definir proximos passos
 
-- [ ] Preparar IA dedicada localmente
+- [X] Preparar IA dedicada localmente
