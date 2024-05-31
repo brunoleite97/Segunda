@@ -1,11 +1,9 @@
 import numpy as np
 import random
 import json
-
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
-
 from nltk_utils import bag_of_words, tokenize, stem
 from model import NeuralNet
 
@@ -20,7 +18,6 @@ for intent in intents['intents']:
     tag = intent['tag']
     tags.append(tag)
     for pattern in intent['patterns']:
-
         w = tokenize(pattern)
         all_words.extend(w)
         xy.append((w, tag))
@@ -46,8 +43,8 @@ X_train = np.array(X_train)
 y_train = np.array(y_train)
 
 num_epochs = 1000
-batch_size = 128
-learning_rate = 0.003
+batch_size = 64
+learning_rate = 0.0001
 input_size = len(X_train[0])
 hidden_size = 16000
 output_size = len(tags)
@@ -92,18 +89,17 @@ for epoch in range(num_epochs):
         optimizer.step()
         
     if (epoch+1) % 10 == 0:
-        print (f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
-
+        print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
 
 print(f'final loss: {loss.item():.4f}')
 
 data = {
-"model_state": model.state_dict(),
-"input_size": input_size,
-"hidden_size": hidden_size,
-"output_size": output_size,
-"all_words": all_words,
-"tags": tags
+    "model_state": model.state_dict(),
+    "input_size": input_size,
+    "hidden_size": hidden_size,
+    "output_size": output_size,
+    "all_words": all_words,
+    "tags": tags
 }
 
 FILE = "data.pth"

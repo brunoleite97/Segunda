@@ -58,6 +58,25 @@ Por se o inicio do desenvolvimento, há desafios funcionalidades e libs a serem 
 
 - [X] Iniciar projeto
 
-- [ ] Definir proximos passos
+- [X] Definir proximos passos
 
 - [X] Preparar IA dedicada localmente
+
+    ### TODO funcionalidades
+
+    - [ ] Consulta de hora
+    - [ ] Saudações
+    - [ ] Teste de velocidade de internet
+    - [ ] Piadas
+    - [ ] Noticias
+    - [ ] Jogos
+    - [ ] Indicação de restaurantes proximos a mim
+    - [ ] Envio de email
+    - [ ] Conte me sobre
+    - [ ] Controle de volume
+    - [ ] Clima tempo
+    - [ ] Mensagens do Whatsapp
+    - [ ] Youtube
+    - [ ] Player de musica
+    - [ ] Controle residencial
+    - [ ] Indicações

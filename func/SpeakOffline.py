@@ -13,5 +13,3 @@ def speak(*args, **kwargs):
     print(audio)
     engine.say(audio)
     engine.runAndWait()
-
-speak("Olá meu nome é Marcela!", name=True)

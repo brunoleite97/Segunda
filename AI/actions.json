@@ -1,0 +1,94 @@
+[
+    {
+    "intent": "cumprimentos e saudações",
+    "example": []
+    },
+    {
+    "intent": "despedida",
+    "example": []
+    },
+    {
+    "intent": "perguntando a data",
+    "example": []
+    },
+    {
+    "intent": "contar uma piada",
+    "example": []
+    },
+    {
+    "intent": "perguntando a hora",
+    "example": []
+    },
+    {
+    "intent": "me fale sobre",
+    "example": []
+    },
+    {
+    "intent": "estou entediado",
+    "example": []
+    },
+    {
+    "intent": "controle de volume",
+    "example": []
+    },
+    {
+    "intent": "me conte as notícias",
+    "example": []
+    },
+    {
+    "intent": "tirar foto",
+    "example": []
+    },
+    {
+    "intent": "lugares perto de mim",
+    "example": []
+    },
+    {
+    "intent": "tocar no youtube",
+    "example": []
+    },
+    {
+    "intent": "jogar jogos",
+    "example": []
+    },
+    {
+    "intent": "o que você pode fazer",
+    "example": []
+    },
+    {
+    "intent": "enviar e-mail",
+    "example": []
+    },
+    {
+    "intent": "baixar vídeo do youtube",
+    "example": []
+    },
+    {
+    "intent": "perguntando o tempo",
+    "example": []
+    },
+    {
+    "intent": "tirar screenshot",
+    "example": []
+    },
+    {
+    "intent": "abrir site",
+    "example": []
+    },
+    {
+    "intent": "enviar mensagem no whatsapp",
+    "example": []
+    },
+    {
+    "intent": "casos de covid",
+    "example": []
+    },
+    {
+    "intent": "perguntando o tempo",
+    "example": []
+    },
+    {
+    "intent": "outros",
+    "example": []
+    }
+    ]
