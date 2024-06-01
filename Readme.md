@@ -64,19 +64,22 @@ Por se o inicio do desenvolvimento, há desafios funcionalidades e libs a serem 
 
     ### TODO funcionalidades
 
-    - [ ] Consulta de hora
-    - [ ] Saudações
-    - [ ] Teste de velocidade de internet
+    - [X] Consulta de hora
+    - [X] Saudações
+    - [X] Teste de velocidade de internet
     - [ ] Piadas
     - [ ] Noticias
     - [ ] Jogos
-    - [ ] Indicação de restaurantes proximos a mim
+    - [X] Indicação de restaurantes proximos a mim
     - [ ] Envio de email
     - [ ] Conte me sobre
     - [ ] Controle de volume
-    - [ ] Clima tempo
+    - [X] Clima tempo
     - [ ] Mensagens do Whatsapp
-    - [ ] Youtube
+    - [X] Youtube
     - [ ] Player de musica
     - [ ] Controle residencial
     - [ ] Indicações
+
+- [ ] Conectar features ao projeto principal
+- [ ] IA preparada para tomadas de decisão
