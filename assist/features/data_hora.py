@@ -8,3 +8,5 @@ def data_hora(*args, **kwargs):
         return datetime.datetime.now().strftime("%d/%m/$Y")
     else:
         return "Desculpe, eu não consigo entender."
+
+print(data_hora(query="time"))

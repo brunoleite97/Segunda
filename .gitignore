@@ -22,7 +22,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-AI/data.pth
+assist/AI/data.pth
 
 *.manifest
 *.spec

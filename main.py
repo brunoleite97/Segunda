@@ -1,7 +1,7 @@
-from func.Chat import chat
-from func.SpeakOnline import Speak
-from func.Listen import Listen
-from func.DataOnline import Online_Scraper
+from assist.func.Chat import chat
+from assist.func.SpeakOnline import Speak
+from assist.func.Listen import Listen
+from assist.func.DataOnline import Online_Scraper
 
 if __name__=="__main__":
     while 1:
